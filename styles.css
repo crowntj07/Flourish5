@@ -23,7 +23,7 @@ p{
     margin-bottom: 15px;
     font-size: 14px;
     line-height: 20px;
-    color:fuchsia;
+    color:rgb(238, 224, 238);
 }
 
 h1.title{
@@ -116,12 +116,12 @@ h1.title{
 .about{
     padding: 5% 10%;
     text-align: center;
-    color: #0ee9c4;
+    color: #cefff7;
 }
 
 /* Services */
 .services{
-	background: #0ee9c4
+	background: #ebace0
 }
 
 .diff_services {
