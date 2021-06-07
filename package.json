@@ -1,0 +1,25 @@
+{
+  "name": "Flourish5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crowntj07/Flourish5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crowntj07/Flourish5/issues"
+  },
+  "homepage": "https://github.com/crowntj07/Flourish5#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.1",
+    "nodemailer-mailgun-transport": "^2.1.3"
+  }
+}
